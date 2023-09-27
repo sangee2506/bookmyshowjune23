@@ -1,4 +1,4 @@
-package models;
+package com.scaler.bookmyshowjune23.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

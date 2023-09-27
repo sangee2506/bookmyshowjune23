@@ -1,6 +1,6 @@
-package dtos;
+package com.scaler.bookmyshowjune23.dtos;
 
-import models.Auditorium;
+import com.scaler.bookmyshowjune23.models.Auditorium;
 
 import java.util.List;
 

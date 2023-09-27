@@ -1,4 +1,4 @@
-package dtos;
+package com.scaler.bookmyshowjune23.dtos;
 
 import java.util.List;
 
